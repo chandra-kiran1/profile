@@ -2,20 +2,19 @@
 
 ## About Me
 
-Hello! I'm Chandra kiran, a passionate software developer with expertise in various technologies and a keen interest in full stack. <img align="right" alt="Coding" width="100" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMjUqDob5lqGBj6b0tCxntv6zmZp67aUn6Nw&s">
+Hello! I'm Chandra kiran, a passionate software developer with expertise in various technologies and a keen interest in full stack.🧑‍💻🧑‍💻\
 
 ## Find Me On
 
 ### Social Media
-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourusername)
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KiranChandra93)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-kiran-r/)
+
 
 ### Coding Platforms
 - [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-%230076D6.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourusername/)
-- [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourusername)
+- [![GeeksForGeeks](https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.geeksforgeeks.org/user/kiranchandra0123/)
 - [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23F58025.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/youruserid/yourusername)
 
 ## My Projects
