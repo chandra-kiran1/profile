@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Chandra kiran, a passionate software developer with expertise in various technologies and a keen interest in full stack. <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+Hello! I'm Chandra kiran, a passionate software developer with expertise in various technologies and a keen interest in full stack. <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMjUqDob5lqGBj6b0tCxntv6zmZp67aUn6Nw&s">
 
 ## Find Me On
 
